@@ -23,9 +23,9 @@ public class Factorial {
         
 		
 
-        /**if (result > 1) {
+        if (result > 1) {
             result = start * calculate(start - 1);
-        }**/
+        }
 
         return result;
     }
